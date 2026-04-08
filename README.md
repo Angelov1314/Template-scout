@@ -21,11 +21,11 @@ A Claude Code skill that searches GitHub for open-source project templates/boile
 
 ## Installation
 
-Copy `SKILL.md` into your Claude Code skills directory:
+Copy `skill.md` into your Claude Code skills directory:
 
 ```bash
 mkdir -p ~/.claude/skills/template-scout
-cp SKILL.md ~/.claude/skills/template-scout/
+cp skill.md ~/.claude/skills/template-scout/skill.md
 ```
 
 ## Usage Example
